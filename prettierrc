@@ -1,0 +1,9 @@
+{
+  "useTabs": false,
+  "c_useTabs": "Indent lines with tabs instead of spaces.",
+  "tabWidth": 2,
+  "c_tabWidth": "Specify the length of line that the printer will wrap on.",
+  "singleQuote": false,
+  "c_singleQuote": "Use single quotes instead of double quotes",
+  "c_endOfLine": "Specify if end of line is -lf for Linux or -crlf for windows.."
+}
